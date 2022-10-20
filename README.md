@@ -9,6 +9,7 @@ Just reference to lkmpg cp13.1
 
 
 - Success
+
 ```
 ben@ben-OptiPlex-7060:/working/ben/module/my-tty$ sudo insmod tty-test-module.ko
 The module has been inserted.  Hello world!
@@ -17,6 +18,7 @@ The module has been removed.  Farewell world!
 ```
 
 - Fail
+
 if show nothing
 ```
 ben@ben-OptiPlex-7060:/working/ben/module/my-tty$ sudo insmod tty-test-module.ko
