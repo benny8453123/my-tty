@@ -2,7 +2,7 @@ my-tty
 ===
 Just reference to lkmpg cp13.1
 
-#how to use?
+# how to use?
 ## Module part (only)
 1. `make`
 2. just insmod and see result
